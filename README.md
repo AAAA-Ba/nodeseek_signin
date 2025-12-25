@@ -2,6 +2,7 @@
 
 #### 1. 配置环境变量
 
+
 本脚本需要两个主要的环境变量：
 
 - **`NODESEEK_COOKIE`**：用于存储你在 `www.nodeseek.com` 登录后获取的 Cookie，用于签到。
