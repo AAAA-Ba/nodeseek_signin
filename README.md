@@ -5,7 +5,9 @@
 
 本脚本需要两个主要的环境变量：
 
-- **`NODESEEK_COOKIE`**：用于存储你在 `www.nodeseek.com` 登录后获取的 Cookie，用于签到。
+- **`NODESEEK_COOKIE`**：用于存储你在 `www.nodeseek.com` 登录后获取的 Cook
+-
+- ie，用于签到。
 - **`TG_BOT_TOKEN`** 和 **`TG_USER_ID`**：用于发送 Telegram 通知，分别是你 Telegram 机器人 token 和用户 ID。
 
 ##### 获取 **`NODESEEK_COOKIE`**：
